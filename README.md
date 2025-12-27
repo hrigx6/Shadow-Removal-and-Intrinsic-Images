@@ -2,13 +2,16 @@
 Explores shadow removal in handwritten documents using two approaches: a learning-based method inspired by BEDSR-Net and intrinsic image decomposition with colorful diffuse shading. Shadow detection is applied to intrinsic components to evaluate which best highlights shadows for removal.
 
 EXECUTION INSTRUCTIONS:
+
 1)Run the Project_2_AP.ipynb file while modifying the image directory for intrinsic image decomposition and shadow segmentation
+
 
 2) For shadow_removal we have attached the following files.
 -infer.py
 -dataset_csv.py
 -dataset.py
 -results
+
 
 To RUN- 
 
